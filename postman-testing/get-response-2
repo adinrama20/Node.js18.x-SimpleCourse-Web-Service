@@ -1,0 +1,17 @@
+{
+  "status": "success",
+  "data": {
+    "findCourse": {
+      "_id": "64696a9db580d637b9d6ef51",
+      "name": "Kursus 1",
+      "instructor": "Adin Rama",
+      "duration_in_minutes": 600,
+      "summary": "Lorem ipsum dolor amet",
+      "price": 100,
+      "id": "GrGhluMJUyg",
+      "uploadAt": "2023-05-21T00:49:33.561Z",
+      "updatedAt": "2023-05-21T00:49:33.561Z",
+      "__v": 0
+    }
+  }
+}

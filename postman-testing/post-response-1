@@ -1,0 +1,7 @@
+{
+  "status": "success",
+  "message": "Data kursus berhasil ditambahkan.",
+  "data": {
+    "courseId": "646b3ff8b6bbffe02bc90f7a"
+  }
+}

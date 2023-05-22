@@ -1,0 +1,75 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "_id": "6465905e9d4f535dd6ce3191",
+      "instructor": "Ardha Barik",
+      "duration": 120,
+      "__v": 0
+    },
+    {
+      "_id": "64659674b35188dadeda84cf",
+      "instructor": "Maulana Fajri",
+      "duration": 600,
+      "__v": 0
+    },
+    {
+      "_id": "6469668e446f91ea3ff961a5",
+      "name": "Kursus Percobaan 1",
+      "instructor": "Adin Rama",
+      "duration_in_minutes": 300,
+      "summary": "Lorem ipsum dolor amet",
+      "price": 100,
+      "id": "ZNSm5dC2mcz",
+      "uploadAt": "2023-05-21T00:32:14.463Z",
+      "updatedAt": "2023-05-21T01:45:01.037Z",
+      "__v": 0
+    },
+    {
+      "_id": "64696702df5c486fd9e457ff",
+      "name": "Kursus Percobaan 2",
+      "instructor": "Adin Rama",
+      "duration_in_minutes": 300,
+      "summary": "Lorem ipsum dolor amet",
+      "price": 100,
+      "id": "ysxuZutUwcc",
+      "uploadAt": "2023-05-21T00:34:10.091Z",
+      "updatedAt": "2023-05-21T02:25:15.259Z",
+      "__v": 0
+    },
+    {
+      "_id": "64696a9db580d637b9d6ef51",
+      "name": "Kursus 1",
+      "instructor": "Adin Rama",
+      "duration_in_minutes": 600,
+      "summary": "Lorem ipsum dolor amet",
+      "price": 100,
+      "id": "GrGhluMJUyg",
+      "uploadAt": "2023-05-21T00:49:33.561Z",
+      "updatedAt": "2023-05-21T00:49:33.561Z",
+      "__v": 0
+    },
+    {
+      "_id": "646ac19fb9ff65b430fb65cc",
+      "name": "Kursus 2",
+      "instructor": "Ramyon's",
+      "duration_in_minutes": 1000,
+      "summary": "Lorem ipsum dolor amet",
+      "price": 500,
+      "uploadAt": "2023-05-22T01:13:03.070Z",
+      "updatedAt": "2023-05-22T01:13:03.070Z",
+      "__v": 0
+    },
+    {
+      "_id": "646ac1c4b9ff65b430fb65d1",
+      "name": "Kursus 3",
+      "instructor": "Ramyonss",
+      "duration_in_minutes": 600,
+      "price": 1000,
+      "uploadAt": "2023-05-22T01:13:40.439Z",
+      "updatedAt": "2023-05-22T09:36:24.935Z",
+      "__v": 0,
+      "summary": "Lorem ipsum dolor amet"
+    }
+  ]
+}
