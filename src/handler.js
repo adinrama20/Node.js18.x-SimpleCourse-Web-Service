@@ -1,4 +1,3 @@
-const { nanoid } = require("nanoid");
 const courses = require("./courses");
 const mongoose = require("mongoose");
 const { isValid } = mongoose.Types.ObjectId;

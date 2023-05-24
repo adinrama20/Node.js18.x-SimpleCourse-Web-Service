@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 mongoose
   .connect(
-    "mongodb+srv://<username>:<password>@dbdeployments.bgpd7js.mongodb.net/?retryWrites=true&w=majority",
+    "mongodb+srv://rama:<password>@dbdeployments.bgpd7js.mongodb.net/?retryWrites=true&w=majority",
     {
       useNewUrlParser: true,
       useUnifiedTopology: true,
